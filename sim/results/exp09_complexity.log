@@ -1,0 +1,6 @@
+decim 1, paths 10: pos 5.36 mm  psi 0.0340 deg | tracking-mode Python time 1.69 s
+decim 4, paths 10: pos 4.92 mm  psi 0.0312 deg | tracking-mode Python time 1.10 s
+decim 8, paths 10: pos 5.07 mm  psi 0.0310 deg | tracking-mode Python time 1.00 s
+decim 8, paths  6: pos 6.19 mm  psi 0.0352 deg | tracking-mode Python time 0.89 s
+decim 8, paths  4: pos 22.25 mm  psi 0.0889 deg | tracking-mode Python time 0.76 s
+decim 8, paths  3: pos 18.61 mm  psi 0.1067 deg | tracking-mode Python time 0.71 s

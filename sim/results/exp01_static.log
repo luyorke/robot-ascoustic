@@ -1,0 +1,18 @@
+== free_field (77 s, 32 poses x 3 frames)
+  CIPHER           pos RMSE     3.537 mm   psi RMSE   0.0207 deg   med 2.14 mm / 0.0102 deg  gross(>1deg) 0%
+  TDOA             pos RMSE     8.434 mm
+  DRAPE-like       pos RMSE    46.067 mm   psi RMSE  16.9760 deg   med 3.31 mm / 1.5073 deg  gross(>1deg) 62%
+  SCALA-AOA        pos RMSE   661.506 mm   psi RMSE 128.3407 deg   med 6.45 mm / 170.5590 deg  gross(>1deg) 53%
+  SCALA-AOA+TDOA   pos RMSE   368.786 mm   psi RMSE  88.3273 deg   med 3.24 mm / 0.0403 deg  gross(>1deg) 28%
+  CRLB_coh         pos RMSE     2.151 mm   psi RMSE   0.0105 deg
+  CRLB_coh+sync2us pos RMSE     0.654 mm   psi RMSE   0.0045 deg
+  CRLB_lag_mp+sync2us pos RMSE     2.028 mm   psi RMSE   0.0121 deg
+== reverb_r0.7_o2 (88 s, 32 poses x 3 frames)
+  CIPHER           pos RMSE     3.952 mm   psi RMSE   0.0216 deg   med 2.16 mm / 0.0112 deg  gross(>1deg) 0%
+  TDOA             pos RMSE    53.559 mm
+  DRAPE-like       pos RMSE    69.072 mm   psi RMSE  29.5067 deg   med 44.62 mm / 6.3251 deg  gross(>1deg) 81%
+  SCALA-AOA        pos RMSE   878.121 mm   psi RMSE 127.2360 deg   med 15.42 mm / 98.9744 deg  gross(>1deg) 53%
+  SCALA-AOA+TDOA   pos RMSE   237.095 mm   psi RMSE 102.2816 deg   med 44.02 mm / 0.1840 deg  gross(>1deg) 34%
+  CRLB_coh         pos RMSE     2.151 mm   psi RMSE   0.0105 deg
+  CRLB_coh+sync2us pos RMSE     0.654 mm   psi RMSE   0.0045 deg
+  CRLB_lag_mp+sync2us pos RMSE     1.933 mm   psi RMSE   0.0113 deg

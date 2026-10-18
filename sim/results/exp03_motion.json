@@ -1,0 +1,155 @@
+{
+ "vmax0.5/checker, slow start": {
+  "CIPHER-track": {
+   "pos_rmse": 3.8132295222598405,
+   "pos_med": 2.6762390244675993,
+   "psi_rmse": 0.020413144880068082,
+   "gross": 0.0
+  },
+  "CIPHER-no-motion-model": {
+   "pos_rmse": 24.7132025907413,
+   "pos_med": 22.84923798541179,
+   "psi_rmse": 0.09226834764304725,
+   "gross": 0.0
+  },
+  "speed_mean": 0.2675154866282957,
+  "speed_max": 0.46916659163839386,
+  "yawrate_max_deg_s": 26.41685250969336
+ },
+ "vmax0.5/checker, moving start": {
+  "CIPHER-track": {
+   "pos_rmse": 3.16626041705751,
+   "pos_med": 2.469694876152502,
+   "psi_rmse": 0.019944892269353167,
+   "gross": 0.0
+  },
+  "CIPHER-no-motion-model": {
+   "pos_rmse": 30.220870724364275,
+   "pos_med": 27.86001690610319,
+   "psi_rmse": 0.11730981266044471,
+   "gross": 0.0
+  },
+  "speed_mean": 0.33328950996824636,
+  "speed_max": 0.4955291218414167,
+  "yawrate_max_deg_s": 28.390940731098652
+ },
+ "vmax0.5/up-chirp, moving start": {
+  "CIPHER-track": {
+   "pos_rmse": 10.276439935757088,
+   "pos_med": 2.725595180715598,
+   "psi_rmse": 0.05124411017058402,
+   "gross": 0.0
+  },
+  "CIPHER-no-motion-model": {
+   "pos_rmse": 32.10107936764908,
+   "pos_med": 26.852605370956148,
+   "psi_rmse": 0.14194998905941503,
+   "gross": 0.0
+  },
+  "speed_mean": 0.3332885597435373,
+  "speed_max": 0.49552909666272943,
+  "yawrate_max_deg_s": 28.390943418463802
+ },
+ "vmax1.0/checker, slow start": {
+  "CIPHER-track": {
+   "pos_rmse": 3.552644517951083,
+   "pos_med": 2.5074744965433458,
+   "psi_rmse": 0.02111721630242794,
+   "gross": 0.0
+  },
+  "CIPHER-no-motion-model": {
+   "pos_rmse": 99.56798419703007,
+   "pos_med": 56.15106614490197,
+   "psi_rmse": 0.506300335746265,
+   "gross": 0.075
+  },
+  "speed_mean": 0.5227265871443589,
+  "speed_max": 0.9662711981346699,
+  "yawrate_max_deg_s": 52.02804310052405
+ },
+ "vmax1.0/checker, moving start": {
+  "CIPHER-track": {
+   "pos_rmse": 4.10869136341793,
+   "pos_med": 2.66282972499098,
+   "psi_rmse": 0.021239770757455426,
+   "gross": 0.0
+  },
+  "CIPHER-no-motion-model": {
+   "pos_rmse": 129.54601006830524,
+   "pos_med": 86.5721239060777,
+   "psi_rmse": 0.688197237907263,
+   "gross": 0.15
+  },
+  "speed_mean": 0.6476835203587584,
+  "speed_max": 0.99337254539414,
+  "yawrate_max_deg_s": 56.777515145434606
+ },
+ "vmax1.0/up-chirp, moving start": {
+  "CIPHER-track": {
+   "pos_rmse": 28.382109503847854,
+   "pos_med": 3.1756765810160132,
+   "psi_rmse": 0.12729093781894937,
+   "gross": 0.00625
+  },
+  "CIPHER-no-motion-model": {
+   "pos_rmse": 152.47333334356014,
+   "pos_med": 92.84181525542446,
+   "psi_rmse": 0.7585186736943338,
+   "gross": 0.2375
+  },
+  "speed_mean": 0.6476750358995695,
+  "speed_max": 0.9933820215263416,
+  "yawrate_max_deg_s": 56.7775115681757
+ },
+ "vmax2.0/checker, slow start": {
+  "CIPHER-track": {
+   "pos_rmse": 6.082782929510269,
+   "pos_med": 4.545027269345069,
+   "psi_rmse": 0.023791864113677157,
+   "gross": 0.0
+  },
+  "CIPHER-no-motion-model": {
+   "pos_rmse": 295.1337676165967,
+   "pos_med": 219.1251365808632,
+   "psi_rmse": 1.5298217862665362,
+   "gross": 0.4875
+  },
+  "speed_mean": 1.0034964802508113,
+  "speed_max": 1.9701398559601067,
+  "yawrate_max_deg_s": 109.57417990166118
+ },
+ "vmax2.0/checker, moving start": {
+  "CIPHER-track": {
+   "pos_rmse": 7.474348504460902,
+   "pos_med": 5.354783847059278,
+   "psi_rmse": 0.028321281340337755,
+   "gross": 0.0
+  },
+  "CIPHER-no-motion-model": {
+   "pos_rmse": 1990.120918297494,
+   "pos_med": 378.4356925918405,
+   "psi_rmse": 45.800370526704484,
+   "gross": 0.65625
+  },
+  "speed_mean": 1.2420201112242553,
+  "speed_max": 2.0018876768686558,
+  "yawrate_max_deg_s": 113.56826678645817
+ },
+ "vmax2.0/up-chirp, moving start": {
+  "CIPHER-track": {
+   "pos_rmse": 111.38045042695228,
+   "pos_med": 5.05321055656636,
+   "psi_rmse": 0.35256350541102477,
+   "gross": 0.0375
+  },
+  "CIPHER-no-motion-model": {
+   "pos_rmse": 334.9591413830955,
+   "pos_med": 289.9798231863339,
+   "psi_rmse": 1.234811805237698,
+   "gross": 0.55625
+  },
+  "speed_mean": 1.2420109024871837,
+  "speed_max": 2.001882408698995,
+  "yawrate_max_deg_s": 113.5682609793251
+ }
+}

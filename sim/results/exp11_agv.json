@@ -1,0 +1,62 @@
+{
+ "no deck / unmodelled": {
+  "true_depth": null,
+  "est_depth": null,
+  "cipher": 3.832641138195186,
+  "cipher_psi": 0.021711640691779787,
+  "x": 2.5131950469296758,
+  "x_psi": 0.017648874237193708,
+  "fixed": 0.6197916666666666,
+  "fixed_x": 0.8224544920703871,
+  "fixed_cipher": 3.7664029779046784,
+  "worse_fix": 0.0
+ },
+ "deck 5 cm / unmodelled": {
+  "true_depth": 0.05,
+  "est_depth": null,
+  "cipher": 26.975942043685126,
+  "cipher_psi": 0.1748423264454614,
+  "x": 27.011827366995522,
+  "x_psi": 0.1749658063043236,
+  "fixed": 0.078125,
+  "fixed_x": 6.1946710923104655,
+  "fixed_cipher": 3.684512501336605,
+  "worse_fix": 0.4
+ },
+ "deck 5 cm / calibrated depth": {
+  "true_depth": 0.05,
+  "est_depth": 0.06,
+  "cipher": 4.147186677579099,
+  "cipher_psi": 0.02641487113660697,
+  "x": 4.103950185787313,
+  "x_psi": 0.026119741328969034,
+  "fixed": 0.08854166666666667,
+  "fixed_x": 0.8173340658713544,
+  "fixed_cipher": 2.1673056618491557,
+  "worse_fix": 0.0
+ },
+ "deck 12 cm / unmodelled": {
+  "true_depth": 0.12,
+  "est_depth": null,
+  "cipher": 88.4844188757297,
+  "cipher_psi": 0.48099080139643524,
+  "x": 88.36978448604776,
+  "x_psi": 0.48093372934520784,
+  "fixed": 0.16666666666666666,
+  "fixed_x": 5.309578874055105,
+  "fixed_cipher": 12.240631920378874,
+  "worse_fix": 0.0
+ },
+ "deck 12 cm / calibrated depth": {
+  "true_depth": 0.12,
+  "est_depth": 0.12000000000000001,
+  "cipher": 3.8057527961575404,
+  "cipher_psi": 0.02039411718936097,
+  "x": 3.3640671213809603,
+  "x_psi": 0.018538301439183703,
+  "fixed": 0.22395833333333334,
+  "fixed_x": 1.113126993439233,
+  "fixed_cipher": 3.921633851858907,
+  "worse_fix": 0.0
+ }
+}

@@ -1,0 +1,10 @@
+uncalibrated                       pos RMSE  40.44 mm (med 17.53)  psi RMSE 0.1027 deg  gross 0%
+oracle gains + ports (floor)       pos RMSE   6.29 mm (med 5.33)  psi RMSE 0.0271 deg  gross 0%
+cal 12 frames (oracle ports): 102 s, port error rms 0.000 mm
+cal 12 frames (oracle ports)       pos RMSE  10.48 mm (med 9.99)  psi RMSE 0.0379 deg  gross 0%
+cal 12 frames: 206 s, port error rms 0.053 mm
+cal 12 frames                      pos RMSE  10.42 mm (med 6.30)  psi RMSE 0.0511 deg  gross 0%
+cal 24 frames: 510 s, port error rms 0.035 mm
+cal 24 frames                      pos RMSE   8.14 mm (med 6.54)  psi RMSE 0.0372 deg  gross 0%
+cal 48 frames: 804 s, port error rms 0.022 mm
+cal 48 frames                      pos RMSE   6.59 mm (med 6.00)  psi RMSE 0.0286 deg  gross 0%

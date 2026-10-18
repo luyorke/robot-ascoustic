@@ -1,0 +1,16 @@
+v0.5 clear 0-8 s             : CIPHER   3.76 mm | CIPHER-X   1.47 mm (fixed  92%, on fixed 0.87 mm, max 10.2) | worse than CIPHER by >3 mm: 0%
+v0.5 A1 blocked 8-10 s       : CIPHER   4.31 mm | CIPHER-X   0.93 mm (fixed 100%, on fixed 0.93 mm, max 2.1) | worse than CIPHER by >3 mm: 0%
+v0.5 clear 10-15 s           : CIPHER   3.65 mm | CIPHER-X   0.87 mm (fixed 100%, on fixed 0.87 mm, max 2.1) | worse than CIPHER by >3 mm: 0%
+v0.5 A3 silent 15-15.5 s     : CIPHER   6.79 mm | CIPHER-X   1.14 mm (fixed 100%, on fixed 1.14 mm, max 1.8) | worse than CIPHER by >3 mm: 0%
+v0.5 clear 15.5-22 s         : CIPHER   3.08 mm | CIPHER-X   0.87 mm (fixed 100%, on fixed 0.87 mm, max 2.0) | worse than CIPHER by >3 mm: 0%
+v0.5 A0+A2 blocked 22-23 s   : CIPHER 191.61 mm | CIPHER-X 182.33 mm (fixed  38%, on fixed 6.62 mm, max 571.8) | worse than CIPHER by >3 mm: 0%
+v0.5 clear 23-30 s           : CIPHER  16.93 mm | CIPHER-X  16.77 mm (fixed  76%, on fixed 0.81 mm, max 279.5) | worse than CIPHER by >3 mm: 0%
+v0.5: 1249 s
+v1.0 clear 0-8 s             : CIPHER   3.99 mm | CIPHER-X   1.57 mm (fixed  92%, on fixed 0.93 mm, max 8.6) | worse than CIPHER by >3 mm: 0%
+v1.0 A1 blocked 8-10 s       : CIPHER   7.65 mm | CIPHER-X   7.15 mm (fixed  90%, on fixed 7.26 mm, max 38.6) | worse than CIPHER by >3 mm: 2%
+v1.0 clear 10-15 s           : CIPHER   3.44 mm | CIPHER-X   0.88 mm (fixed 100%, on fixed 0.88 mm, max 2.4) | worse than CIPHER by >3 mm: 0%
+v1.0 A3 silent 15-15.5 s     : CIPHER  18.52 mm | CIPHER-X   1.18 mm (fixed 100%, on fixed 1.18 mm, max 2.3) | worse than CIPHER by >3 mm: 0%
+v1.0 clear 15.5-22 s         : CIPHER   6.47 mm | CIPHER-X   5.50 mm (fixed  82%, on fixed 0.91 mm, max 51.0) | worse than CIPHER by >3 mm: 0%
+v1.0 A0+A2 blocked 22-23 s   : CIPHER 209.42 mm | CIPHER-X 205.32 mm (fixed  12%, on fixed 41.29 mm, max 520.7) | worse than CIPHER by >3 mm: 2%
+v1.0 clear 23-30 s           : CIPHER  13.73 mm | CIPHER-X  13.49 mm (fixed  67%, on fixed 1.45 mm, max 220.4) | worse than CIPHER by >3 mm: 0%
+v1.0: 1608 s

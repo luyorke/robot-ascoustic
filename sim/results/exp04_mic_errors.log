@@ -1,0 +1,17 @@
+A ideal                    pos RMSE    3.79 mm (med 2.37)  psi RMSE 0.0174 deg (med 0.0127)  gross 0%  (20 s)
+A f_res spread 1%          pos RMSE   10.52 mm (med 9.77)  psi RMSE 0.0513 deg (med 0.0302)  gross 0%  (24 s)
+A f_res spread 2%          pos RMSE   38.41 mm (med 13.24)  psi RMSE 0.1116 deg (med 0.0693)  gross 0%  (27 s)
+A f_res spread 4%          pos RMSE  124.53 mm (med 24.84)  psi RMSE 0.9019 deg (med 0.1928)  gross 16%  (41 s)
+A phase err 2 deg          pos RMSE   10.31 mm (med 9.63)  psi RMSE 0.0242 deg (med 0.0182)  gross 0%  (19 s)
+A phase err 5 deg          pos RMSE   18.44 mm (med 15.51)  psi RMSE 0.0479 deg (med 0.0302)  gross 0%  (20 s)
+A phase err 10 deg         pos RMSE   30.74 mm (med 26.61)  psi RMSE 0.0930 deg (med 0.0586)  gross 0%  (20 s)
+A phase err 20 deg         pos RMSE   83.58 mm (med 52.02)  psi RMSE 0.2380 deg (med 0.1399)  gross 0%  (26 s)
+A port pos err 0.1 mm      pos RMSE    6.76 mm (med 3.85)  psi RMSE 0.0303 deg (med 0.0189)  gross 0%  (19 s)
+A port pos err 0.3 mm      pos RMSE    9.22 mm (med 7.70)  psi RMSE 0.0784 deg (med 0.0488)  gross 0%  (19 s)
+A port pos err 1 mm        pos RMSE   68.16 mm (med 18.99)  psi RMSE 0.3125 deg (med 0.1651)  gross 0%  (26 s)
+A PDM L/R skew 163 ns      pos RMSE    3.84 mm (med 2.66)  psi RMSE 0.0176 deg (med 0.0127)  gross 0%  (19 s)
+A realistic combined       pos RMSE   49.05 mm (med 15.58)  psi RMSE 0.4075 deg (med 0.0821)  gross 3%  (25 s)
+B realistic errors,  0 calibration frames: pos RMSE 53.20 mm (med 20.96) psi RMSE 0.3118 deg (med 0.0917) gross 2%
+B realistic errors,  4 calibration frames: pos RMSE 33.35 mm (med 11.18) psi RMSE 0.2163 deg (med 0.0488) gross 0%
+B realistic errors, 12 calibration frames: pos RMSE 15.07 mm (med 6.93) psi RMSE 0.0826 deg (med 0.0440) gross 0%
+C handedness by coherence: correct 100%  (mean coherence true 0.909 vs mirrored 0.382)

@@ -1,0 +1,7 @@
+baseline                  : CIPHER   3.83 mm / 0.0217 deg | CIPHER-X   2.51 mm / 0.0176 deg, fixed 62% (on fixed 0.82 vs 3.77), bad fixes 0%, sigma_s est 1.6 us (228 s)
+clutter 6 x -20 dB        : CIPHER   6.98 mm / 0.0323 deg | CIPHER-X   5.96 mm / 0.0308 deg, fixed 34% (on fixed 1.12 vs 6.28), bad fixes 0%, sigma_s est 1.7 us (253 s)
+clutter 6 x -12 dB        : CIPHER  19.02 mm / 0.0652 deg | CIPHER-X  19.02 mm / 0.0652 deg, fixed 0% (on fixed nan vs nan), bad fixes 0%, sigma_s est 3.7 us (346 s)
+body plate 10 cm, r=0.3   : CIPHER  23.57 mm / 0.0469 deg | CIPHER-X  23.51 mm / 0.0460 deg, fixed 32% (on fixed 7.85 vs 8.04), bad fixes 19%, sigma_s est 2.2 us (246 s)
+body plate, modelled      : CIPHER   4.01 mm / 0.0228 deg | CIPHER-X   3.60 mm / 0.0209 deg, fixed 23% (on fixed 1.46 vs 3.95), bad fixes 0%, sigma_s est 2.2 us (257 s)
+temperature 0.1 degC      : CIPHER   3.91 mm / 0.0221 deg | CIPHER-X   2.72 mm / 0.0184 deg, fixed 54% (on fixed 1.26 vs 4.04), bad fixes 0%, sigma_s est 1.7 us (204 s)
+temperature 0.3 degC      : CIPHER   5.65 mm / 0.0255 deg | CIPHER-X   5.32 mm / 0.0250 deg, fixed 53% (on fixed 5.33 vs 5.93), bad fixes 15%, sigma_s est 1.8 us (200 s)

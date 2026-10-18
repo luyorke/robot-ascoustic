@@ -1,0 +1,38 @@
+== sync jitter 0 us (40 s)
+  CIPHER           pos       3.68 mm  psi    0.0195 deg
+  TDOA             pos      52.66 mm
+  DRAPE-like       pos      92.47 mm  psi   21.9154 deg
+  SCALA-AOA+TDOA   pos    8085.10 mm  psi  116.7239 deg
+  CRLB_coh         pos       2.37 mm  psi    0.0127 deg
+  CRLB_coh+sync    pos       0.04 mm  psi    0.0027 deg
+== sync jitter 2 us (41 s)
+  CIPHER           pos       3.66 mm  psi    0.0193 deg
+  TDOA             pos      53.25 mm
+  DRAPE-like       pos      99.90 mm  psi   23.7369 deg
+  SCALA-AOA+TDOA   pos    7933.22 mm  psi  113.4336 deg
+  CRLB_coh         pos       2.37 mm  psi    0.0127 deg
+  CRLB_coh+sync    pos       0.63 mm  psi    0.0059 deg
+== sync jitter 10 us (44 s)
+  CIPHER           pos       3.73 mm  psi    0.0240 deg
+  TDOA             pos      52.49 mm
+  DRAPE-like       pos 2654845.75 mm  psi   33.4148 deg
+  SCALA-AOA+TDOA   pos    7552.25 mm  psi   97.4226 deg
+  CRLB_coh         pos       2.37 mm  psi    0.0127 deg
+  CRLB_coh+sync    pos       1.60 mm  psi    0.0098 deg
+== sync jitter 50 us (44 s)
+  CIPHER           pos       4.87 mm  psi    0.0267 deg
+  TDOA             pos      60.34 mm
+  DRAPE-like       pos 1841152.22 mm  psi   31.7185 deg
+  SCALA-AOA+TDOA   pos    5580.96 mm  psi  114.1760 deg
+  CRLB_coh         pos       2.37 mm  psi    0.0127 deg
+  CRLB_coh+sync    pos       2.28 mm  psi    0.0124 deg
+== sync jitter 200 us (43 s)
+  CIPHER           pos      52.72 mm  psi    0.1447 deg
+  TDOA             pos      98.89 mm
+  DRAPE-like       pos     167.19 mm  psi   34.2621 deg
+  SCALA-AOA+TDOA   pos 82044903.52 mm  psi   80.1786 deg
+  CRLB_coh         pos       2.37 mm  psi    0.0127 deg
+  CRLB_coh+sync    pos       2.37 mm  psi    0.0127 deg
+== receiver SFO -100 ppm: CIPHER pos 3.34 mm psi 0.0211 deg
+== receiver SFO +0 ppm: CIPHER pos 3.05 mm psi 0.0196 deg
+== receiver SFO +100 ppm: CIPHER pos 2.97 mm psi 0.0198 deg

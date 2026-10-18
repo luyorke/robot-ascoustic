@@ -1,0 +1,6 @@
+R  16.0 mm: pos RMSE    9.04 mm (med 6.20)  psi RMSE 0.0767 deg (med 0.0429)  gross 0%  ratio med 2.92 min 1.78  | CRLB 7.67 mm 0.0369 deg  (30 s)
+R  25.0 mm: pos RMSE    6.78 mm (med 3.73)  psi RMSE 0.0450 deg (med 0.0190)  gross 0%  ratio med 2.93 min 2.17  | CRLB 4.91 mm 0.0236 deg  (30 s)
+R  35.0 mm: pos RMSE    4.52 mm (med 2.82)  psi RMSE 0.0403 deg (med 0.0161)  gross 0%  ratio med 2.76 min 1.80  | CRLB 3.51 mm 0.0169 deg  (30 s)
+R  50.0 mm: pos RMSE    3.24 mm (med 1.93)  psi RMSE 0.0181 deg (med 0.0123)  gross 0%  ratio med 2.51 min 1.69  | CRLB 2.45 mm 0.0118 deg  (30 s)
+R  70.0 mm: pos RMSE    3.01 mm (med 1.41)  psi RMSE 0.0157 deg (med 0.0099)  gross 0%  ratio med 2.30 min 1.66  | CRLB 1.75 mm 0.0084 deg  (29 s)
+R 100.0 mm: pos RMSE    2.62 mm (med 1.11)  psi RMSE 0.0092 deg (med 0.0056)  gross 0%  ratio med 2.23 min 1.44  | CRLB 1.23 mm 0.0059 deg  (30 s)

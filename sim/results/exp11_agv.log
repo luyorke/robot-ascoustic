@@ -1,0 +1,5 @@
+no deck / unmodelled           (depth est None): CIPHER   3.83 mm / 0.0217 deg | CIPHER-X   2.51 mm, fixed 62% (on fixed 0.82 vs 3.77), bad fixes 0% (197 s)
+deck 5 cm / unmodelled         (depth est None): CIPHER  26.98 mm / 0.1748 deg | CIPHER-X  27.01 mm, fixed 8% (on fixed 6.19 vs 3.68), bad fixes 40% (300 s)
+deck 5 cm / calibrated depth   (depth est 0.06): CIPHER   4.15 mm / 0.0264 deg | CIPHER-X   4.10 mm, fixed 9% (on fixed 0.82 vs 2.17), bad fixes 0% (262 s)
+deck 12 cm / unmodelled        (depth est None): CIPHER  88.48 mm / 0.4810 deg | CIPHER-X  88.37 mm, fixed 17% (on fixed 5.31 vs 12.24), bad fixes 0% (332 s)
+deck 12 cm / calibrated depth  (depth est 0.12000000000000001): CIPHER   3.81 mm / 0.0204 deg | CIPHER-X   3.36 mm, fixed 22% (on fixed 1.11 vs 3.92), bad fixes 0% (242 s)

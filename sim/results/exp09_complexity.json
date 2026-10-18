@@ -1,0 +1,32 @@
+{
+ "decim1_paths10": {
+  "pos_rmse_mm": 5.355914094814682,
+  "psi_rmse_deg": 0.03403217619396098,
+  "python_time_s": 1.6850640535354615
+ },
+ "decim4_paths10": {
+  "pos_rmse_mm": 4.923963737866409,
+  "psi_rmse_deg": 0.031178427892243017,
+  "python_time_s": 1.1045599460601807
+ },
+ "decim8_paths10": {
+  "pos_rmse_mm": 5.0695145309296175,
+  "psi_rmse_deg": 0.031014770646157073,
+  "python_time_s": 1.001889443397522
+ },
+ "decim8_paths6": {
+  "pos_rmse_mm": 6.194664605091215,
+  "psi_rmse_deg": 0.03517981655170385,
+  "python_time_s": 0.8888500928878784
+ },
+ "decim8_paths4": {
+  "pos_rmse_mm": 22.254093280727968,
+  "psi_rmse_deg": 0.08892479440183915,
+  "python_time_s": 0.7633544921875
+ },
+ "decim8_paths3": {
+  "pos_rmse_mm": 18.61469165405626,
+  "psi_rmse_deg": 0.10674771947760571,
+  "python_time_s": 0.7145195722579956
+ }
+}

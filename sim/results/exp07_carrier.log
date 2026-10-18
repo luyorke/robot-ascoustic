@@ -1,0 +1,4 @@
+v0.5_sync2us: CIPHER 4.02 mm / 0.0214 deg | CIPHER-X 2.67 mm (med 1.03) / 0.0185 deg | fixed 57% -> on fixed frames 0.80 vs 4.05 mm, worse-than-CIPHER fixes 0% | sigma_s est 1.6 us (207 s)
+v1.0_sync2us: CIPHER 4.22 mm / 0.0213 deg | CIPHER-X 3.16 mm (med 1.10) / 0.0184 deg | fixed 56% -> on fixed frames 0.84 vs 3.85 mm, worse-than-CIPHER fixes 0% | sigma_s est 1.6 us (234 s)
+v2.0_sync2us: CIPHER 8.22 mm / 0.0295 deg | CIPHER-X 5.52 mm (med 1.63) / 0.0287 deg | fixed 54% -> on fixed frames 1.05 vs 8.31 mm, worse-than-CIPHER fixes 0% | sigma_s est 1.8 us (244 s)
+v0.5_sync10us: CIPHER 4.09 mm / 0.0211 deg | CIPHER-X 4.09 mm (med 3.27) / 0.0211 deg | fixed 0% -> on fixed frames nan vs nan mm, worse-than-CIPHER fixes 0% | sigma_s est 14.2 us (169 s)
